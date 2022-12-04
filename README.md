@@ -1,5 +1,5 @@
-## Hi there I'm [Bipoeman]https://www.instagram.com/the_io_creator/👋
-
+## Hi there I'm [Bipoeman](https://www.instagram.com/the_io_creator/)👋
+I'm currently study in Computer Engineering at KMUTNB
 <!--
 **Bipoeman/Bipoeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
