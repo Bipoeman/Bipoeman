@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chanahtip</h1>
-<h3 align="center">I'm a Semester 2 of Computer Engineering student at KMUTNB</h3>
+<!-- <h3 align="center">I'm a Semester 2 of Computer Engineering student at KMUTNB</h3> -->
 
 - 🌱 I’m currently learning **ESP-IDF Framework for ESP32**
 
 - 📫 How to reach me **bipoeman12@gmail.com**
+
+- 🎓 I'm currently studying at KMUTNB as a Computer Enginerring student
 
 <p align="left">
 </p>
