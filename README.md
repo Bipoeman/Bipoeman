@@ -32,4 +32,4 @@ I mostly work with hardware and electronics staff like KiCad, EasyEDA. I want to
 
 <center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipoeman&show_icons=true&locale=en&layout=compact" alt="bipoeman" /></center>
 
-<!-- <p><img align = "Center" src="http://api.easyfarming.net:8000/20180703190744-rollsafe-meme.jpeg" witdh = "40" height = "40"></p> -->
+<p><img align = "Center" src="http://api.easyfarming.net:8000/20180703190744-rollsafe-meme.jpeg" witdh = "40" height = "40"></p>
